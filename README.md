@@ -11,6 +11,14 @@ Lập kế hoạch và triển khai công việc HIỆU QUẢ
 
 ## [Phần 2 - Phương pháp lập kế hoạch (Plan)](plan.md)
 
+1. Xác định mục đích, mục tiêu
+2. Chia nhỏ phạm vi
+3. Chia nhỏ công việc
+4. Sắp xếp công việc theo thứ tự ưu tiêu
+5. Ước tính tài nguyên thực hiện
+6. Ước lượng rủi ro xảy ra
+7. Hoàn thiện bản kế hoạch
+
 ## Phần 3 - Phương pháp thực hiện công việc (Do)
 
 ## Phần 4 - Phương pháp kiểm tra kết quả công việc (CheckCheck)
