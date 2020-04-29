@@ -23,7 +23,7 @@
 ## Phương pháp tiêu chuẩn hóa công việc
 
 Tiêu chuẩn hóa. ĐẠT
-- THực tế đã đạt được trong kế hoạch sẽ làm chuẩn
+- Thực tế đã đạt được trong kế hoạch sẽ làm chuẩn
 - Tại sao phải tiêu chuẩn? Làm cơ sở để cải tiến liên tục
 - Nếu không tiêu chuẩn sẽ có xu hướng quay về mức ban đầu
 

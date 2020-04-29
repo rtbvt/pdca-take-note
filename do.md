@@ -1,6 +1,6 @@
 # Phương pháp thực hiện công việc
 
-## TỔng quan
+## Tổng quan
 
 - Phương pháp để phổ biến kế hoạch
 - Trực quan hóa bản kế hoạch
@@ -23,8 +23,9 @@ Mục đích và mục tiêu của dự án là gì? Hỏi lại? và xác đị
 
 ## Thực hiện theo kế hoạch
 
-Áp dụng "To do list" theo ngày, tuần, tháng.
-Cuối ngày kiểm tra lại. Công việc hôm nay không để hôm sau.
+- Áp dụng "To do list" theo ngày, tuần, tháng.
+- Cuối ngày kiểm tra lại.
+- Công việc hôm nay không để hôm sau.
 
 ## Báo cáo - Liên lạc - Thảo luận
 
@@ -36,6 +37,6 @@ Cuối ngày kiểm tra lại. Công việc hôm nay không để hôm sau.
 ## Ghi chép kết quả thực hiện công việc
 
 2 màu 2 ký hiệu (KH kế hoạch, TT thực tế)
-- Vấn đề, tại sao không đạt kế hoạch?
+> Vấn đề, tại sao không đạt kế hoạch?
 
 Giờ qua [Check](check.md)
