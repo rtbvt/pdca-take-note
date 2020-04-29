@@ -70,3 +70,5 @@ Xác suất xảy ra- Tác động rủi ro (4 trường hợp). Nếu .. thì .
 - Kế hoạch gì ... (What)
 - Mục đích ... Mục tiêu ... (Why)
 - Hạn mục (PBS), Nội dung công việc (WBS) - có thể đưa công việc phòng ngừa và dự phòng vào - ưu tiên, Mục tiêu từng công việc, Ai người làm (Who), Vị trí (Where), Lịch trình
+
+Qua phần [Do](do.md)
